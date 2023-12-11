@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": true,
+      "item": "Vist balachandra.in"
+    },
+    {
+      "id": 2,
+      "checked": true,
+      "item": "Blockchain"
+    },
+    {
+      "id": 3,
+      "checked": true,
+      "item": "AI"
+    },
+    {
+      "id": 4,
+      "Checked": false,
+      "item": "Git",
+      "checked": true
+    }
+  ]
+}
